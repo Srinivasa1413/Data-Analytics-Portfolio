@@ -14,7 +14,7 @@ Welcome to my Data Analysis portfolio!
 
 📚 Lifelong learner | #DataScience #Analytics #Python #SQL
 
-## 📌 About Me
+## 📌 About Mine
 
 I'm an aspiring Data Analyst with a strong interest in data-driven decision-making. I enjoy working with messy data, uncovering insights, and building visualizations that tell a story.
 
