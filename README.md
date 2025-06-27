@@ -1,12 +1,12 @@
 # Data-Analytics-Portfolio
 
 Welcome to my Data Analysis portfolio!
-#📊 Data Analyst | Passionate about turning data into insights
-#💻 Skilled in Python, SQL, Excel, Tableau, and Power BI
-#📈 Exploring real-world datasets to uncover trends and patterns
-#🎯 Currently improving my skills in statistics, data visualization, and machine learning
-#🔍 Open to collaboration on data projects and eager to contribute to the data community
-#📚 Lifelong learner | #DataScience #Analytics #Python #SQL
+##📊 Data Analyst | Passionate about turning data into insights
+##💻 Skilled in Python, SQL, Excel, Tableau, and Power BI
+##📈 Exploring real-world datasets to uncover trends and patterns
+##🎯 Currently improving my skills in statistics, data visualization, and machine learning
+##🔍 Open to collaboration on data projects and eager to contribute to the data community
+##📚 Lifelong learner | #DataScience #Analytics #Python #SQL
 
 ## 📌 About Me
 
